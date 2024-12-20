@@ -11,7 +11,7 @@ import random
 import time
 import cv2
 from instagrapi import Client
-import pywhatkit as kit
+
 
 
 
