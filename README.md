@@ -5,24 +5,7 @@
 <img src="https://img.icons8.com/color/200/000000/iron-man.png" alt="FINKLINK JARVIS" width="140"/>
 
 <br/>
-
-```
-     ██╗ █████╗ ██████╗ ██╗   ██╗██╗███████╗
-     ██║██╔══██╗██╔══██╗██║   ██║██║██╔════╝
-     ██║███████║██████╔╝██║   ██║██║███████╗
-██   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║
-╚█████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║
- ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝
-```
-
-```
-  ╔══════════════════════════════════════════════════════╗
-  ║   J.A.R.V.I.S  PROTOCOL  —  FINK LINK INITIALIZED   ║
-  ║   Just A Rather Very Intelligent System              ║
-  ║   [ VOICE CONTROL  ·  AI ENGINE  ·  AUTOMATION ]    ║
-  ╚══════════════════════════════════════════════════════╝
-```
-
+<h1 align="center">𝙵𝙸𝙽𝙺𝙻𝙸𝙽𝙺</h1>
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
